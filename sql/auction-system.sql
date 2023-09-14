@@ -137,12 +137,6 @@ CREATE TABLE `users` (
 -- Dumping data for table `users`
 --
 
-INSERT INTO `users` (`id`, `name`, `img`, `username`, `password`, `email`, `contact`, `address`, `type`, `user_stat`, `date_created`) VALUES
-(1, 'Administrator', 'uploads/profile-img.jpg', 'Admin', '202cb962ac59075b964b07152d234b70', 'felizartajeje@gmail.com', '123123', 'Asdasdasd', 1, 0, '2020-10-27 09:19:59'),
-(9, 'Felizarta Gerald', 'uploads/messages-3.jpg', 'gerald', '202cb962ac59075b964b07152d234b70', 'felizartajeje@gmail.com1', '813', 'Askhjas Asjhdkjash1', 2, 0, '2022-11-22 19:40:54'),
-(82, 'Aleida Fe Nogal', 'uploads/messages-1.jpg', 'Aleida2001', '202cb962ac59075b964b07152d234b70', 'nogalaleiadfe@gigamail.com', '9546332342', 'Purok Rosal', 2, 0, '2022-12-17 00:39:19'),
-(94, 'Louiena Felizarta', 'uploads/messages-1.jpg', 'Louiena123', '202cb962ac59075b964b07152d234b70', 'louienafelizarta@gmail.com', '0918237112', 'Purok ROsal District 29 Ormoc City', 2, 0, '2022-12-17 20:07:46'),
-(95, 'louiena1 felizarta', 'uploads/messages-2.jpg', 'louiena', '202cb962ac59075b964b07152d234b70', 'louienafelizarta@gmail.com1', '9434827342', 'purok rosal district 29 ormoc city leyte', 2, 0, '2023-01-02 16:27:36');
 
 -- --------------------------------------------------------
 

@@ -4,7 +4,7 @@
  
   # Online Auction System
   
-  ![image](https://github.com/suff3r1ng/auctionsystem/assets/89917089/47aab062-7e0c-4ebd-a93b-98f74d5ad72b)
+  ![image](https://raw.githubusercontent.com/suff3r1ng/suff3r1ng.github.io/main/assets/Screenshot%202023-09-14%20193033.png)
   
 </div>
 
@@ -19,13 +19,13 @@
 
 ## Installation
 To install the project, follow these steps: \
-![xampp](https://github.com/suff3r1ng/auctionsystem/assets/89917089/916376a4-580f-44b7-93d3-3eaa9f012694)
+![xampp](https://raw.githubusercontent.com/suff3r1ng/suff3r1ng.github.io/main/assets/Untitled.png)
 
 Download [xampp](https://www.apachefriends.org/download.html) and install.
 
 
 1.Go to xampp/htdocs & cmd to directory.
-![image](https://github.com/suff3r1ng/auctionsystem/assets/89917089/dc1556a4-df96-41d8-96b5-8a288c70553c)
+![image](https://raw.githubusercontent.com/suff3r1ng/suff3r1ng.github.io/main/assets/Screenshot%202023-09-14%20171139.png)
 
 2. Clone the repository. 
    
@@ -51,6 +51,6 @@ This project is licensed under the [GNU](https://github.com/suff3r1ng/auctionsys
 
 ### Support me by Donating into my:
 
-[Gcash](https://github.com/suff3r1ng/auctionsystem/assets/89917089/551769e6-bb43-4b2d-98ec-9c12c0fb6ff9)
+[Gcash](https://raw.githubusercontent.com/suff3r1ng/suff3r1ng.github.io/main/assets/377097737_686190756754090_1481435785001845303_n.jpg)
  
 <hr>
